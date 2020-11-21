@@ -19,7 +19,7 @@
     }
     .banners
     {
-        background-image: url(/home/cedcoss/Desktop/shivProject/victory/images/victorybg21.jpg);
+        background-image: url(images/victorybg21.jpg);
         background-attachment: fixed;
         background-size: cover;
     }
@@ -68,7 +68,7 @@
    /* fourth container*/
     .formbg
     {
-       background-image: url(/home/cedcoss/Desktop/shivProject/victory/images/formbg.jpg);
+       background-image: url(images/formbg.jpg);
     }
     .formfooter
     {
@@ -100,7 +100,7 @@
 
   .signupbackground
   {
-  	background-image: url(/home/cedcoss/Desktop/shivProject/victory/images/signupbg.jpg);
+  	background-image: url(images/signupbg.jpg);
   }
 
    .footers
