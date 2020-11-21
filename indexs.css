@@ -1,0 +1,149 @@
+  .headers{
+            background-color:aliceblue;
+          }  
+  .navbar-brands
+        {
+           font-size:45px;
+           color: black;
+           font-family:  'Spectral', serif;
+           font-style: italic;      
+ 
+        }
+   .borders{
+            border-width: 100%;
+   	        border-bottom: 1px solid lightgray;
+           }
+    .navlink
+    {
+    	color: black;
+    }
+    .banners
+    {
+        background-image: url(/home/cedcoss/Desktop/shivProject/victory/images/victorybg21.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    .mask
+    {
+        background-color: rgba(100,35,100,0.6);
+        background-repeat: no-repeat;
+ 
+    }
+    .bannercontent
+    {
+    	color: white; 	
+    }
+   .button
+   {
+   	  background-color: #f2745f;
+   	  color: white;
+
+   }
+
+   .cookdetails
+   {
+     background-color:#F2745F;
+     color: white;
+   }
+   .contact
+   {
+   	background-color:#F3826F;
+   }
+
+
+   .button1
+   {
+
+      background-color: white;
+      color: red;
+    }
+  /* third container*/
+    .imgborder
+    {
+         border: 10px solid #EAF0FF;
+    }
+
+
+   /* fourth container*/
+    .formbg
+    {
+       background-image: url(/home/cedcoss/Desktop/shivProject/victory/images/formbg.jpg);
+    }
+    .formfooter
+    {
+    	background-color: #F2745F;
+    }
+    /* container fifth*/
+
+   .captions
+   {
+      background-color: #F7F4ED;
+      position: absolute;
+      bottom:0;
+      right: 0;
+      color: lightcoral;
+
+   }
+
+   /* container six*/
+   .caption2
+   {
+   	 background-color: #F7F4ED;
+      position: absolute;
+      color: lightcoral;
+      left: 0;
+      top: 0;
+
+   }
+ /* container seventh*/
+
+  .signupbackground
+  {
+  	background-image: url(/home/cedcoss/Desktop/shivProject/victory/images/signupbg.jpg);
+  }
+
+   .footers
+   {
+   	background-color: #363E50;
+   }
+.short
+{
+	color:#F39FB9; 
+	font-size:14px;
+}
+
+
+i.ex1:hover
+{
+   background-color:#d44457 !important;
+}
+.ex2
+{
+	color:#363E50;
+}
+.paginationactive
+{
+	background-color: #F2745F !important;
+	color: black  !important;
+}
+.paginationcolor
+{
+	color: black;
+}
+
+.boxbackground
+{
+	background-color: #EDEBE8;
+}
+
+.contentfont
+{
+  font-family: 'Josefin Sans', sans-serif;  
+}
+
+.contentbackground
+{ 
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: linen;
+}
